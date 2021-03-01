@@ -10,21 +10,21 @@ Please pull request your screenshots with this font in your favorite IDE, theme 
 
 > VS Code Plain Text
 
-![sample](sample.png)
+<img src="sample.png" width="400">
 
 > VS Code JavaScript
 
-![sample](sample1.png)
+<img src="sample1.png" width="400">
 
 > Geany, C
 
-![sample](sample2.png)
+<img src="sample2.png" width="250">
 
 > VS Code, Haskell
 
-![sample](sample3.png)
+<img src="sample3.png" width="400">
 
 > VS Code, Rust
 
-![sample](sample4.png)
+<img src="sample4.png" width="400">
 
