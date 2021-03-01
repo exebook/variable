@@ -5,7 +5,7 @@ Carefully designed for coding in IDEs and notepads. Variable width makes text an
 
 [Download Variable.ttf](https://github.com/exebook/variable/raw/main/Variable.ttf)
 
-Please pull request your screenshots with this font in your favorite IDE, theme and programming language! I will add everyone to this page. You can optionally add a link to your profile.
+Please pull request your screenshots with this font in your favorite IDE, theme and programming language! I will add everyone to this page. You can optionally add a link to your profile or project repo.
 
 
 # samples
