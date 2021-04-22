@@ -10,6 +10,10 @@ Please pull request your screenshots with this font in your favorite IDE, theme 
 
 # samples
 
+> PHP, VS Code, GitHub Plus Theme, [Lizusha](https://github.com/Lizusha)
+
+<img src="https://user-images.githubusercontent.com/3821217/115682290-84da3880-a37f-11eb-9ffd-d3ded1cefd7c.png" width="400"/>
+
 > VS Code, Default Dark Theme, Plain Text, [exebook](https://github.com/exebook)
 
 <img src="sample.png" width="400"/>
@@ -29,4 +33,5 @@ Please pull request your screenshots with this font in your favorite IDE, theme 
 > VS Code, Default Dark Theme, Rust, [exebook](https://github.com/exebook)
 
 <img src="sample4.png" width="400"/>
+
 
